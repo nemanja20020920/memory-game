@@ -31,3 +31,7 @@
   cursor: pointer;
   font-size: 40px;
 }
+
+p {
+  width: 50%;
+}
